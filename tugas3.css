@@ -1,0 +1,20 @@
+.p1 {
+  background-color: #d18a0f;
+  font-size: 14px;
+}
+
+.p2 {
+  background-color: #0f29d1;
+  color: white;
+  font-size: 14px;
+}
+
+.p3 {
+  font-family: monospace;
+  font-size: 18px;
+}
+
+.p4 {
+  background-color: #6b6c6e;
+  font-weight: 600;
+}
